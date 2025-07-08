@@ -105,3 +105,6 @@ Here, I document each project and the key concepts learned day by day.
 * **IDE:** Visual Studio Code - PyCharm
 
 Feel free to explore the projects. Any feedback is welcome!
+
+![Mi Firma de Zorro - 256p](https://raw.githubusercontent.com/Soulphantom2920/assets-/main/Fox%20signatures/GithubMark%20x256p.gif)
+
