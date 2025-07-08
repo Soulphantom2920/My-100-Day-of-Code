@@ -24,7 +24,7 @@ Here, I document each project and the key concepts learned day by day.
 
 | Day | Project | Concepts Learned | Date | Status |
 |:---:|:---|:---|:---:|:---:|
-| 001 | [Band Name Generator](link-to-day-1-folder) | `print()`, `input()`, Variables, String Manipulation, f-Strings | Jul 3, 2025 | ✅ Completed |
+| 001 | [Band Name Generator](https://github.com/Soulphantom2920/My-100-Days-of-Code/tree/main/Day%201) | `print()`, `input()`, Variables, String Manipulation, f-Strings | Jul 3, 2025 | ✅ Completed |
 | 002 | [Tip Calculator](link-to-day-2-folder) | Data Types (`int`, `float`, `str`), Mathematical Operations, Type Conversion | | |
 | 003 | [Treasure Island Adventure](link-to-day-3-folder) | Conditional Logic (`if`/`else`/`elif`), Logical Operators | | |
 | ... | ... | ... | | |
