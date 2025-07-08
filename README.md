@@ -1,4 +1,4 @@
-# 🚀 My #100DaysOfCode Journey - Python Pro Bootcamp
+# My #100DaysOfCode Journey - Python Pro Bootcamp
 
 **Hello and Welcome to my repository!** I am a **Computer Engineering student at the Costa Rica Institute of Technology (TEC)**, and I'm using this challenge to build a strong foundation in practical programming for the upcoming challenges. 
 
@@ -6,7 +6,7 @@ This is my progress log for Dr. Angela Yu's **"100 Days of Code: The Complete Py
 
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![100 Days of Code](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-000?style=for-the-badge&logo=)](https://www.100daysofcode.com/)
+[![100 Days of Code](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-red?style=for-the-badge&logo=)](https://www.100daysofcode.com/)
 
 ---
 
@@ -106,5 +106,14 @@ Here, I document each project and the key concepts learned day by day.
 
 Feel free to explore the projects. Any feedback is welcome!
 
-![Mi Firma de Zorro - 256p](https://raw.githubusercontent.com/Soulphantom2920/assets-/main/Fox%20signatures/GithubMark%20x256p.gif)
 
+<p align="center">
+  <a href="https://www.paypal.me/SoulP2920" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-Invítame%20a%20un%20café-blue?style=for-the-badge&logo=paypal" alt="Donar con PayPal">
+  </a>
+</p>
+
+
+![Mi Firma de Zorro - 128p](https://raw.githubusercontent.com/Soulphantom2920/assets-/main/Fox%20signatures/GithubMark%20x128p.gif)
+
+  **¡THANKS!** 🙌
